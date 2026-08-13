@@ -2,68 +2,71 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1a2e,70:2d6a4f,100:52b788&height=220&section=header&text=Python%20Journey&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=Learning%20Python%20%E2%80%94%20Clean%2C%20Simple%2C%20Powerful&descAlignY=55&descSize=20&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=52b788&center=true&vCenter=true&width=800&lines=Learning+Python+from+Scratch+%F0%9F%90%8D;Notes+%7C+Code+%7C+Practice+%7C+Projects;OOP+%7C+DSA+%7C+Automation+%7C+More+%F0%9F%9A%80;print('Hello%2C+Python!')++%23+Day+1+begins;Building+Skills+One+Script+at+a+Time+%F0%9F%94%A5"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=52b788&center=true&vCenter=true&width=800&lines=Learning+Python+from+Scratch;Notes+%7C+Code+%7C+Practice+%7C+Projects;Building+Skills+One+Script+at+a+Time;print('Hello%2C+Python!')"/>
 
 <br/>
 
-![Language](https://img.shields.io/badge/Language-Python%203-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Language](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![IDE](https://img.shields.io/badge/IDE-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Topics](https://img.shields.io/badge/Topics-10+-52b788?style=for-the-badge)
-![Projects](https://img.shields.io/badge/Projects-In%20Progress-yellow?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active%20🔥-brightgreen?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🟢 Currently Studying
+## 📌 Currently Studying
 
-> ### 📌 Topic 01 — Python Basics
-> *Variables, data types, input/output, operators, type casting, comments.*
->
-> **Status:** ⏳ In Progress &nbsp;|&nbsp; **IDE:** VS Code &nbsp;|&nbsp; **Next Up:** Conditional Statements
+> **Topic:** Python Basics
+> **Covers:** Variables, data types, input/output, operators, type casting
+> **Status:** In Progress
+> **Next:** Conditional Statements
+
+*Update this section every time you move to a new topic.*
 
 ---
 
-## 👨‍💻 About This Repository
+## About This Repository
 
 ```python
 class PythonJourney:
     def __init__(self):
-        self.author           = "Avikam Gupta"
-        self.degree           = "B.Tech — Computer Science & Engineering"
-        self.language         = "Python 3"
-        self.currently        = "Learning Python from scratch"
-        self.goal             = "DSA · Automation · Projects"
-        self.open_to_connect  = True
+        self.author    = "Avikam Gupta"
+        self.degree    = "B.Tech — Computer Science & Engineering"
+        self.language  = "Python 3"
+        self.goal      = "DSA · Automation · Projects"
 
     def mission(self):
         return "Understand deeply. Code cleanly. Build consistently."
 ```
 
-> *"Python is not just a language — it's a superpower."*
+This repository is a structured, topic-by-topic record of my Python learning journey. Every topic has dedicated notes, well-commented code, and practice problems. The goal is not just to finish topics — it is to build real understanding and apply it through projects.
+
+> *"I am not trying to learn Python fast. I am trying to learn it well."*
 
 ---
 
-## 🎯 Objectives
+## Learning Methodology
 
-- 🐍 Master Python from beginner to advanced
-- 📝 Write clean, well-commented code every day
-- 🧠 Build strong OOP and problem-solving skills
-- 🚀 Create real-world projects
-- 📚 Prepare for DSA using Python
-- 🔁 Maintain daily learning consistency
+```
+Learn → Implement → Practice → Build → Revise
+```
+
+- **Learn** — Study the concept from notes or a resource
+- **Implement** — Write code for every concept, no copy-paste
+- **Practice** — Solve problems related to the topic
+- **Build** — Apply concepts in a small project
+- **Revise** — Come back to previous topics regularly
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 Python-Journey/
 │
-├── 📄 README.md
+├── README.md
 │
-├── 📂 Notes/
+├── Notes/
 │   ├── Python_Basics.md
 │   ├── Conditional_Statements.md
 │   ├── Loops.md
@@ -72,7 +75,7 @@ Python-Journey/
 │   ├── OOP.md
 │   └── ...
 │
-├── 📂 Codes/
+├── Codes/
 │   ├── Basics/
 │   ├── Conditionals/
 │   ├── Loops/
@@ -81,12 +84,12 @@ Python-Journey/
 │   ├── OOP/
 │   └── ...
 │
-├── 📂 Practice/
+├── Practice/
 │   ├── Beginner/
 │   ├── Intermediate/
 │   └── Problems/
 │
-└── 📂 Projects/
+└── Projects/
     ├── Calculator/
     ├── Number_Guessing_Game/
     └── ...
@@ -94,31 +97,51 @@ Python-Journey/
 
 ---
 
-## 🗺️ Learning Roadmap
+## Learning Roadmap
 
-### 🔄 Currently Learning
+### Phase 1 — Foundations
 ```
-Python Basics               ██████░░░░░░░░░░░░░░   In Progress ⏳
-```
-
-### 📚 Upcoming
-```
+Python Basics               ██████░░░░░░░░░░░░░░   In Progress
 Conditional Statements      ░░░░░░░░░░░░░░░░░░░░   Upcoming
 Loops                       ░░░░░░░░░░░░░░░░░░░░   Upcoming
-Data Structures             ░░░░░░░░░░░░░░░░░░░░   Upcoming  ⭐ Key Topic
+Data Structures             ░░░░░░░░░░░░░░░░░░░░   Upcoming
 Functions                   ░░░░░░░░░░░░░░░░░░░░   Upcoming
-Object Oriented Programming ░░░░░░░░░░░░░░░░░░░░   Upcoming  ⭐ Key Topic
+```
+
+### Phase 2 — Intermediate
+```
+Object Oriented Programming ░░░░░░░░░░░░░░░░░░░░   Upcoming
 File Handling               ░░░░░░░░░░░░░░░░░░░░   Upcoming
 Exception Handling          ░░░░░░░░░░░░░░░░░░░░   Upcoming
 Modules & Libraries         ░░░░░░░░░░░░░░░░░░░░   Upcoming
 Comprehensions & Iterators  ░░░░░░░░░░░░░░░░░░░░   Upcoming
-Decorators & Generators     ░░░░░░░░░░░░░░░░░░░░   Upcoming  🔥 Advanced
-DSA with Python             ░░░░░░░░░░░░░░░░░░░░   Upcoming  🎯 Goal
+Decorators & Generators     ░░░░░░░░░░░░░░░░░░░░   Upcoming
+```
+
+### Phase 3 — Applied Python
+```
+Virtual Environments & pip  ░░░░░░░░░░░░░░░░░░░░   Upcoming
+JSON & File Formats         ░░░░░░░░░░░░░░░░░░░░   Upcoming
+APIs & Requests             ░░░░░░░░░░░░░░░░░░░░   Upcoming
+Databases with Python       ░░░░░░░░░░░░░░░░░░░░   Upcoming
+Testing & Debugging         ░░░░░░░░░░░░░░░░░░░░   Upcoming
+Type Hints & Clean Code     ░░░░░░░░░░░░░░░░░░░░   Upcoming
+```
+
+### Phase 4 — DSA with Python
+```
+Arrays & Strings            ░░░░░░░░░░░░░░░░░░░░   Upcoming
+Recursion                   ░░░░░░░░░░░░░░░░░░░░   Upcoming
+Searching & Sorting         ░░░░░░░░░░░░░░░░░░░░   Upcoming
+Stacks & Queues             ░░░░░░░░░░░░░░░░░░░░   Upcoming
+Linked Lists                ░░░░░░░░░░░░░░░░░░░░   Upcoming
+Trees & Graphs              ░░░░░░░░░░░░░░░░░░░░   Upcoming
+Dynamic Programming         ░░░░░░░░░░░░░░░░░░░░   Upcoming
 ```
 
 ---
 
-## 📅 Progress Tracker
+## Progress Tracker
 
 <div align="center">
 
@@ -135,97 +158,87 @@ DSA with Python             ░░░░░░░░░░░░░░░░░�
 | 09 | Modules & Libraries | ❌ | ❌ | ![Upcoming](https://img.shields.io/badge/-Upcoming-lightgrey?style=flat-square) |
 | 10 | Comprehensions & Iterators | ❌ | ❌ | ![Upcoming](https://img.shields.io/badge/-Upcoming-lightgrey?style=flat-square) |
 | 11 | Decorators & Generators | ❌ | ❌ | ![Upcoming](https://img.shields.io/badge/-Upcoming-lightgrey?style=flat-square) |
-| 12 | DSA with Python | ❌ | ❌ | ![Upcoming](https://img.shields.io/badge/-Upcoming-lightgrey?style=flat-square) |
+| 12 | Virtual Environments & pip | ❌ | ❌ | ![Upcoming](https://img.shields.io/badge/-Upcoming-lightgrey?style=flat-square) |
+| 13 | JSON & File Formats | ❌ | ❌ | ![Upcoming](https://img.shields.io/badge/-Upcoming-lightgrey?style=flat-square) |
+| 14 | APIs & Requests | ❌ | ❌ | ![Upcoming](https://img.shields.io/badge/-Upcoming-lightgrey?style=flat-square) |
+| 15 | Databases with Python | ❌ | ❌ | ![Upcoming](https://img.shields.io/badge/-Upcoming-lightgrey?style=flat-square) |
+| 16 | Testing & Debugging | ❌ | ❌ | ![Upcoming](https://img.shields.io/badge/-Upcoming-lightgrey?style=flat-square) |
+| 17 | Type Hints & Clean Code | ❌ | ❌ | ![Upcoming](https://img.shields.io/badge/-Upcoming-lightgrey?style=flat-square) |
 
 </div>
 
 ---
 
-## 🏅 Milestone Badges
+## Practice
 
-<div align="center">
+The `Practice/` folder is the most important part of this repository. Notes and code explain concepts — practice proves understanding.
 
-![Milestone](https://img.shields.io/badge/🐍%20Python%20Journey%20Started-52b788?style=for-the-badge)
-![Milestone](https://img.shields.io/badge/5%20Topics%20Completed-lightgrey?style=for-the-badge)
-![Milestone](https://img.shields.io/badge/OOP%20Mastered-lightgrey?style=for-the-badge)
-![Milestone](https://img.shields.io/badge/First%20Project%20Built-lightgrey?style=for-the-badge)
-![Milestone](https://img.shields.io/badge/10%20Topics%20Completed-lightgrey?style=for-the-badge)
-![Milestone](https://img.shields.io/badge/DSA%20with%20Python%20Unlocked-lightgrey?style=for-the-badge)
-
-</div>
-
-> Badges unlock as milestones are reached. 🔓
-
----
-
-## ⚡ Python Syntax Showcase
-
-```python
-# 🔹 Basics
-name = "Avikam"
-print(f"Hello, {name}! Let's learn Python 🐍")
-
-# 🔹 List Comprehension — Pythonic & Clean
-squares = [x**2 for x in range(1, 11) if x % 2 == 0]
-print(squares)  # [4, 16, 36, 64, 100]
-
-# 🔹 Functions with Default Args
-def greet(name, msg="Keep coding!"):
-    return f"Hey {name}, {msg}"
-
-# 🔹 OOP
-class Student:
-    def __init__(self, name, marks):
-        self.name  = name
-        self.marks = marks
-
-    def grade(self):
-        return "A" if self.marks >= 90 else "B" if self.marks >= 75 else "C"
-
-s = Student("Avikam", 92)
-print(f"{s.name} → Grade: {s.grade()}")
-
-# 🔹 File Handling
-with open("notes.txt", "r") as f:
-    content = f.read()
-
-# 🔹 Decorator
-def logger(func):
-    def wrapper(*args, **kwargs):
-        print(f"Calling {func.__name__}...")
-        return func(*args, **kwargs)
-    return wrapper
-
-@logger
-def add(a, b):
-    return a + b
-
-# 🔹 Exception Handling
-try:
-    result = 10 / 0
-except ZeroDivisionError as e:
-    print(f"Error: {e}")
-finally:
-    print("Always runs.")
+```
+Practice/
+├── Beginner/       ← Problems using basics, conditions, loops
+├── Intermediate/   ← Problems using functions, OOP, file handling
+└── Problems/       ← Topic-wise problem sets
 ```
 
+Every topic in the roadmap has corresponding practice problems. Problems are solved independently before looking at any reference.
+
 ---
 
-## 🚀 Projects
+## Syntax Showcase
+
+*This section grows as topics are completed. Only what has been learned is shown here.*
+
+```python
+# Currently learning: Python Basics
+
+name = "Avikam"
+age  = 20
+
+print(f"Name: {name}, Age: {age}")
+print(type(name), type(age))
+
+# Input
+user_input = input("Enter a number: ")
+number = int(user_input)
+print(f"Square: {number ** 2}")
+```
+
+*More will be added as the journey progresses.*
+
+---
+
+## Projects
 
 <div align="center">
 
-| # | Project | Description | Status |
-|:---:|---------|-------------|:------:|
-| 01 | Calculator | Basic arithmetic calculator with input validation | ![Upcoming](https://img.shields.io/badge/-Upcoming-lightgrey?style=flat-square) |
-| 02 | Number Guessing Game | Random number game with hints and score tracking | ![Upcoming](https://img.shields.io/badge/-Upcoming-lightgrey?style=flat-square) |
-| 03 | More coming... | Projects grow as topics are completed 🚀 | — |
+| # | Project | Concepts Used | Difficulty | Status |
+|:---:|---------|--------------|:----------:|:------:|
+| 01 | Calculator | Basics, Functions, Conditionals | Beginner | ![Upcoming](https://img.shields.io/badge/-Upcoming-lightgrey?style=flat-square) |
+| 02 | Number Guessing Game | Loops, Random, Input Handling | Beginner | ![Upcoming](https://img.shields.io/badge/-Upcoming-lightgrey?style=flat-square) |
+| — | More coming... | Projects grow with learning | — | — |
 
 </div>
 
 ---
 
-## 📊 Live GitHub Stats
+## Milestones
+
+<div align="center">
+
+![Milestone](https://img.shields.io/badge/Python%20Journey%20Started-52b788?style=for-the-badge)
+![Milestone](https://img.shields.io/badge/Phase%201%20Complete-lightgrey?style=for-the-badge)
+![Milestone](https://img.shields.io/badge/OOP%20Mastered-lightgrey?style=for-the-badge)
+![Milestone](https://img.shields.io/badge/First%20Project%20Built-lightgrey?style=for-the-badge)
+![Milestone](https://img.shields.io/badge/Phase%202%20Complete-lightgrey?style=for-the-badge)
+![Milestone](https://img.shields.io/badge/DSA%20with%20Python%20Started-lightgrey?style=for-the-badge)
+
+</div>
+
+*Badges are updated manually when milestones are genuinely reached.*
+
+---
+
+## Live GitHub Stats
 
 <div align="center">
 
@@ -237,47 +250,75 @@ finally:
 
 ---
 
-## 🛠️ Development Environment
+## Development Environment
 
 | Tool | Details |
 |------|---------|
-| 🐍 Language | Python 3 |
-| 📝 IDE | VS Code |
-| 📦 Package Manager | pip |
-| 🔁 Version Control | Git & GitHub |
+| Language | Python 3.x |
+| IDE | Visual Studio Code |
+| OS | Windows |
+| Package Manager | pip |
+| Version Control | Git & GitHub |
+| Virtual Env | venv (from Phase 3 onwards) |
 
 ---
 
-## 🎯 Goals
+## Commit Style
+
+Commits in this repository follow a consistent format:
+
+```
+feat: add loops practice problems
+docs: add functions notes
+fix: correct OOP inheritance example
+project: create calculator
+refactor: clean up basics code
+```
+
+This keeps the commit history readable and demonstrates proper Git workflow.
+
+---
+
+## Resources
+
+| Resource | Type | Link |
+|----------|------|------|
+| Python Official Docs | Documentation | [docs.python.org](https://docs.python.org) |
+| CS50P — Python (Harvard) | Course | [cs50.harvard.edu/python](https://cs50.harvard.edu/python) |
+| LeetCode | Practice | [leetcode.com](https://leetcode.com) |
+| Real Python | Articles | [realpython.com](https://realpython.com) |
+
+---
+
+## Goals
 
 | Goal | Status |
 |------|:------:|
-| Master Python Fundamentals | ⏳ In Progress |
-| Complete OOP in Python | 📚 Upcoming |
-| Build 5+ Projects | 📚 Upcoming |
-| Learn DSA with Python | 📚 Upcoming |
-| Explore Python Libraries | 📚 Upcoming |
-| Start Automation / Scripting | 📚 Upcoming |
+| Complete Phase 1 — Foundations | ⏳ In Progress |
+| Complete Phase 2 — Intermediate | Upcoming |
+| Complete Phase 3 — Applied Python | Upcoming |
+| Build 5+ Projects | Upcoming |
+| Start DSA with Python | Upcoming |
+| Write PEP 8 compliant code consistently | Ongoing |
 
 ---
 
-## 📌 Repository Rules
+## Repository Rules
 
-- 📅 Learn every day — no exceptions
-- 📝 Write notes for every topic covered
-- 💻 Push code after every session
-- 🚀 Build at least one project per major topic
-- 🔁 Revise previous topics regularly
+- Study consistently — progress matters more than daily streaks
+- Write notes before writing code for every new topic
+- Push code after every meaningful session
+- Build at least one project per phase
+- Never paste code without understanding it
+- Revise previous topics once a week
 
 ---
 
 <div align="center">
 
-## 👨‍💻 Avikam Gupta
+**Avikam Gupta**
 
-*"First, solve the problem. Then, write the code."*
-
-⭐ **If this repository helps your Python learning, consider leaving a star!**
+*"I am not trying to learn Python fast. I am trying to learn it well."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:52b788,50:2d6a4f,100:0d1117&height=120&section=footer"/>
 

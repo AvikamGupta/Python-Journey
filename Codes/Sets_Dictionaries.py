@@ -1,0 +1,31 @@
+#dictionary 
+info={
+    "name":"avikam",
+    "student":{
+        "phy":99,
+        "chem":98,
+        "maths":100
+    },
+    "age" : 18 ,
+    "learning":["java","python","cpp"],
+    "is_adult":True,
+    "cgpa":9.6
+}
+print(info)
+print(info["name"])
+print(info["learning"])
+print(info["student"]["maths"])
+print(info.keys())
+print(info.values())
+print(info.items())
+new_dict={"city":"kanpur"}
+info.update({"age":19})
+info.update(new_dict)
+print(info)
+#set
+nums={1,2,3,4}
+set2={1,2,2,2}
+null_set=set()
+print(set2)
+nums.add(5)
+set.remove()
